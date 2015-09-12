@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>300548EC-17AF-4B77-974B-91A9134D47C9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>luagame</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1915B5E75D71DD5FD59671E3FACD8660AAD6397F</key>
+		<string>https://github.com/letmefly/cocos2d_lua_proj.git</string>
+		<key>6E862FECF8B4A7F2E176A27BCC344A428C263DB8</key>
+		<string>https://github.com/letmefly/cocos2d_cpp_proj.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>luagame/frameworks/runtime-src/proj.ios_mac/luagame.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1915B5E75D71DD5FD59671E3FACD8660AAD6397F</key>
+		<string>../../../../../..</string>
+		<key>6E862FECF8B4A7F2E176A27BCC344A428C263DB8</key>
+		<string>../../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/letmefly/cocos2d_lua_proj.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1915B5E75D71DD5FD59671E3FACD8660AAD6397F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6E862FECF8B4A7F2E176A27BCC344A428C263DB8</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1915B5E75D71DD5FD59671E3FACD8660AAD6397F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cocos2d_lua_proj</string>
+		</dict>
+	</array>
+</dict>
+</plist>
